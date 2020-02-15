@@ -2,8 +2,8 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "latest-version": "1.2",
+      "download-url": "https://github.com/zhongjun1217/DriverUpdate/blob/master/download/Update_3.0.0.2001.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
@@ -19,20 +19,6 @@
       "latest-version": "1.0",
       "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
       "changelog": "This is an example changelog for Linux. Go on...",
-      "mandatory": true
-    },
-    "ios": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for iOS. Go on...",
-      "mandatory": true
-    },
-    "android": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Android. Go on...",
       "mandatory": true
     }
   }
