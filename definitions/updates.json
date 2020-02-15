@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.2",
-      "download-url": "https://github.com/zhongjun1217/DriverUpdate/blob/master/download/Update_3.0.0.2001.exe",
+      "download-url": "https://zhongjun1217.github.io/DriverUpdate/download/Update_3.0.0.2001.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
