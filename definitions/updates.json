@@ -4,7 +4,7 @@
       "open-url": "",
       "latest-version": "1.2",
       "download-url": "https://zhongjun1217.github.io/DriverUpdate/download/Update_3.0.0.2001.exe",
-      "changelog": "This is an example changelog for Windows. Go on...",
+      "changelog": "1、修复若干BUG\n2、修复BUG2\n3、修复BUG4\n4、修复BUG5\n",
       "mandatory": true
     },
     "osx": {
