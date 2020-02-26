@@ -3,8 +3,14 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.2",
-      "download-url": "https://zhongjun1217.github.io/DriverUpdate/download/Update_3.0.0.2001.exe",
-      "changelog": "1、修复若干BUG\n2、修复BUG2\n3、修复BUG4\n4、修复BUG5\n",
+	  "ChineseSimplified":{
+			"download-url": "https://zhongjun1217.github.io/DriverUpdate/download/Update_3.0.0.2001.exe",
+			"changelog": "1、修复若干BUG\n2、修复BUG2\n3、修复BUG4\n4、修复BUG5\n"
+			},
+	 "English":{
+			"download-url": "https://zhongjun1217.github.io/DriverUpdate/download/Update_3.0.0.2001.exe",
+			"changelog": "1、ModitfyBUG\n2、ModitfyBUG\n3、ModitfyBUG\n4、ModitfyBUG\n"
+			},
       "mandatory": true
     },
     "osx": {
